@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Lista de Tareas/style.css">
+    <title>Lista de Tareas</Tarea></title>
+</head>
+<body class="center">
+    <h1>Lista de Tareas de Emiliano Echenique</h1>
+    <input type="checkbox">
+    <input type="text" name="Agregar Texto" id="">
+    <button>borrar</button>
+    <hr>
+    <input type="checkbox">
+    <input type="text" name="Agregar Texto" id="">
+    <button>Borrar</button>
+    <hr>
+    <input type="checkbox">
+    <input type="text" name="Agregar Texto" id="">
+    <button>Borrar</button>
+    <hr>
+    <input type="checkbox">
+    <input type="text" name="Agregar Texto" id="">
+    <button>Borrar</button>
+</body>
+</html>
